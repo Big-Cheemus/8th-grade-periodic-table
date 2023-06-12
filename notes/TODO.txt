@@ -1,0 +1,25 @@
+click to display 
+ 
+
+
+
+-history
+ 
+
+
+
+
+
+hatshould element obj do
+
+
+
+
+-display info of element
+   -atomic number
+   - avg mass
+   - element abbreviation
+   - 
+max y = 618
+
+618/9 =
